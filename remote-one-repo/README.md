@@ -8,7 +8,7 @@
 
 
 
-本地拉取：git pull git地址
+########本地拉取：git pull git地址
 
 
 
@@ -17,3 +17,8 @@
 1.
 
 本地推送：git push
+
+########本地push：需要3个步骤：
+1.git add .
+2.git commit -m '注释内容'
+3.git push
